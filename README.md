@@ -51,7 +51,7 @@ with Python and JavaScript. In my spare time, I enjoy watching movies, surfing t
 <h2>📈 &nbsp;Some Github Stats</h2>
 <span align="left">
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ugokingsley)](https://git.io/streak-stats)
 
 
 
