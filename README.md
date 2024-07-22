@@ -53,8 +53,6 @@ with Python and JavaScript. In my spare time, I enjoy watching movies, surfing t
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=augustinebenard&" alt="augustinebenard" /></p>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=augustinebenard)
 
 </div>
