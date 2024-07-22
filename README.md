@@ -27,6 +27,8 @@ with Python and JavaScript. In my spare time, I enjoy watching movies, surfing t
 <img alt="Python" src="https://img.shields.io/badge/Python-DD0031?style=for-the-badge&logo=python&logoColor=white">
 <img alt="AWS" src="https://img.shields.io/badge/AWS-DD0031?style=for-the-badge&logo=aws&logoColor=white">
 <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-DD0031?style=for-the-badge&logo=googlecloud&logoColor=white">
+<img alt="NestJS" src="https://img.shields.io/badge/nestjs-DD0031?style=for-the-badge&logo=nestjs&logoColor=white">
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-DD0031?style=for-the-badge&logo=springboot&logoColor=white">
 <img alt="Boostsrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
   <img alt="VSCode" src="https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
