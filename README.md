@@ -4,20 +4,20 @@
 
 **Frontend Engineer | Backend Engineer | Software Engineer**
 
-I'm **Benard Augustine Adakole**, a fullstack Software Engineer with over 4 years of experience building innovative
-solutions for globally distributed teams. I currently work as software Engineer, picking projects and building stuffs
-with Java and JavaScript. In my spare time, I enjoy watching movies, surfing the internet, and travelling.
+I'm **Benard Augustine Adakole**, a fullstack Software Engineer with over 8 years of experience building innovative
+solutions for globally distributed teams. I currently work as senior software/devops Engineer, picking projects and building stuffs
+with Python and JavaScript. In my spare time, I enjoy watching movies, surfing the internet, and playing chess.
 
 **Want to stay in touch? You can find me here:**
 
 <h2>🌎 &nbsp;Where to find me</h2>
 <p>
-  <a href="https://www.linkedin.com/in/benard-austin/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-   <a href="https://twitter.com/austin_benard_" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
-  <a href="mailto:pheelzconnect@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ugochukwu-nwanaji-1b7163b9/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+   <a href="https://twitter.com/ugokingsley30" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+  <a href="mailto:ugokingsley5@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.instagram.com/kole_austins/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
-<a href="https://wa.me/+2348100384214" target="_blank"><img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://wa.me/+2347033094539" target="_blank"><img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 
 </p>
